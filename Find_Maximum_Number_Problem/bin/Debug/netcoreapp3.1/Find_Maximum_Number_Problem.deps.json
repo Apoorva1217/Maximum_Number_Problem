@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Find_Maximum_Number_Problem/1.0.0": {
+        "runtime": {
+          "Find_Maximum_Number_Problem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find_Maximum_Number_Problem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
